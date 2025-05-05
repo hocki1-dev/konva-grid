@@ -28,7 +28,7 @@
     "url": "https://github.com/rmdort/konva-grid/issues"
   },
   "dependencies": {
-    "konva": "^6.0.0",
+    "konva": ">=6.0.0",
     "react-konva": ">=16.13.0-3",
     "tiny-invariant": "^1.1.0"
   },
